@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IT_Android_1_2</string>
+    <string name="helloworld">Hello World!</string>
+    <string name="hello">こんにちは</string>
+    <string name="push1">PUSH1</string>
+    <string name="push2">PUSH2</string>
+</resources>
